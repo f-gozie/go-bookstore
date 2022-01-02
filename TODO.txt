@@ -1,0 +1,5 @@
+[]	Decouple controllers (move validators to it's own module)
+[]	Add unit tests
+[]	Create CI workflow (GH actions?)
+[]	Update local GOROOT tracking (change mod files to require repo's module instead)
+[]	Clean up modules (models and controllers .mod and .sum files)
